@@ -21,8 +21,8 @@
 This structured approach allows you to prioritize actions based on the impact on sales and profit margins, leveraging data visualizations to guide strategic decisions effectively.
 
 
-.
-.
+. \n
+. \n
 .
 # Data source
 [Source](https://github.com/mochen862/power-bi-portfolio-project)
