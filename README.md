@@ -1,4 +1,4 @@
-# Plant-Co.- guided Report
+# Plant Co. Guided Report
 
 ## Key Insights
 - <b>Worst performing countries:</b> China, France, and Sweden are the largest contributors to the decrease in sales in 2023, with China showing the most significant decline.
@@ -22,6 +22,6 @@ This structured approach allows you to prioritize actions based on the impact on
 
 
 
-### Data source
+### Dataset
 [Source](https://github.com/mochen862/power-bi-portfolio-project)
 
