@@ -19,3 +19,11 @@
   - <b>Upper Right Quadrant:</b> High gross profit and high sales/quantity. These accounts are crucial for overall profit. Maintain and analyze these accounts to understand their success factors.
   - <b>Lower Right Quadrant:</b> Low gross profit but high sales/quantity. Focus on improving the profit margin for these accounts.
 This structured approach allows you to prioritize actions based on the impact on sales and profit margins, leveraging data visualizations to guide strategic decisions effectively.
+
+
+.
+.
+.
+# Data source
+[Source](https://github.com/mochen862/power-bi-portfolio-project)
+
