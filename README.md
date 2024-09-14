@@ -1,7 +1,7 @@
 # Plant-Co.-report
 
 # Key Insights
-<b>Geographical Impact<\b>: China, France, and Sweden are the largest contributors to the decrease in sales, with China showing the most significant decline.
+<b>Geographical Impact</b>: China, France, and Sweden are the largest contributors to the decrease in sales, with China showing the most significant decline.
 <b>Monthly Sales Drop: The largest drop in Sales YTD vs PYTD occurred in February 2023, with a decrease of -0.35 million. Breaking this down, 0.26 million of this decline is attributed to China, with indoor and landscape products contributing -101k and -153k respectively.
 
 # Recommendations
